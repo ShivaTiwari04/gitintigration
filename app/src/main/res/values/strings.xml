@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string-array name="Qty">
+        <item>select Quantity</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>three</item>
+    </string-array>
+</resources>
